@@ -63,7 +63,8 @@ My research interests cover **Digital Image and Signal Processing**, **Time Seri
 
 ## Patents
 
-- *2025.09*, 202510905181.0(已授权申请号)， **一种城市街区变化检测方法、系统、设备及存储介质**, &ensp;阎继宁, 王力哲, **<u>孙灵军</u>**, 金铭，贺海旭, 王玥玮.
+- *2025.09*, ZL202510905181.0， **一种城市街区变化检测方法、系统、设备及存储介质**, &ensp;阎继宁, 王力哲, **<u>孙灵军</u>**, 金铭，贺海旭, 王玥玮.
+
 
 # 📖 Education
 - *2022.09 - Present*, **B.E.** in [China University of Geosciences](https://www.cug.edu.cn/), advised by A.P. [Jining Yan](https://scholar.google.com/citations?user=iYTHxQcAAAAJ). 
@@ -72,8 +73,9 @@ My research interests cover **Digital Image and Signal Processing**, **Time Seri
 <!-- 备选Emoji：🎖🏅💎🏆 -->
 # 🏅 Honors and Awards
 
-- *2023*,&ensp;**National College Students Mathematical Modeling Competition, Second Price** \| **全国大学生数学建模大赛国家二等奖**
-- *2023*,&ensp;**The 12th “Teddy Cup” Data Mining Challenge, Second Price** \| **第十二届泰迪杯数据挖掘挑战赛国家二等奖**.
+- *2025*,&ensp;**BYD Scholarship** \| **比亚迪奖学金**. [link](https://cs.cug.edu.cn/info/1073/9801.htm)
+- *2024*,&ensp;**National College Students Mathematical Modeling Competition, Second Price** \| **全国大学生数学建模大赛国家二等奖**
+- *2024*,&ensp;**The 12th “Teddy Cup” Data Mining Challenge, Second Price** \| **第十二届泰迪杯数据挖掘挑战赛国家二等奖**.
 - *2023, 2024*,&ensp;**Outstanding Student Award** \| **优秀学生标兵**.
 - *2023,2024*,&ensp;**Outstanding Student Scholarship** \| **英才奖学金**.
 
